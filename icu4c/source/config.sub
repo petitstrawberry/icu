@@ -2103,6 +2103,7 @@ case $os in
 	| scout* \
 	| secbsd* \
 	| sei* \
+	| scarlet* \
 	| serenity* \
 	| sim* \
 	| skyos* \
